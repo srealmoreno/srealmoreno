@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hi 👋, I'm Srealmoreno
 
-<!--
-**srealmoreno/srealmoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Telematics Engineer at University of Nicaragua.  
+[srealmoreno.com](https://srealmoreno.com)
 
-Here are some ideas to get you started:
+🌱 I’m currently learning React, Angular  
+📫 How to reach me salvadorreal77@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨🏻‍💻 &nbsp;About Me
+
+Able to solve problems, proactive researcher, critical thinking, decision making, teamwork. I like to learn new and fast learning things
+
+## 📄 &nbsp; Resume
+
+&nbsp;You can check my [Resume](https://docs.google.com/document/d/1nJtmAZaNgOHQ-CTyDJ-uZC1pWcabwXqWfcmarCVyFk4/edit?usp=sharing) for more details about work experience and skills.
+
+## 🛠 &nbsp;Languages and Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/Node-05122A?style=flat&logo=node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=node.js)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=Typescript&logoColor=blue)&nbsp;
+![Bash](https://img.shields.io/badge/Bash-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+![Mysql](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=mysql&logoColor=blue)&nbsp;
+![MariaDb](https://img.shields.io/badge/MariaDB-05122A?style=flat&logo=mariadb&logoColor=green)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=Docker)&nbsp;
+![Nginx](https://img.shields.io/badge/Nginx-05122A?style=flat&logo=Nginx)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
+## 📫 &nbsp; How to reach me
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/srealmoreno/)
+[![Gmail Bagde](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:salvadorreal77@gmail.com)
