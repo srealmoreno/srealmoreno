@@ -4,7 +4,7 @@ Telematics Engineer at University of Nicaragua.
 [srealmoreno.com](https://srealmoreno.com)
 
 🌱 I’m currently learning React, Angular  
-📫 How to reach me salvadorreal77@gmail.com
+📫 How to reach me info@srealmoreno.com
 
 ## 👨🏻‍💻 &nbsp;About Me
 
@@ -12,7 +12,7 @@ Able to solve problems, proactive researcher, critical thinking, decision making
 
 ## 📄 &nbsp; Resume
 
-&nbsp;You can check my [Resume](https://docs.google.com/document/d/1nJtmAZaNgOHQ-CTyDJ-uZC1pWcabwXqWfcmarCVyFk4/edit?usp=sharing) for more details about work experience and skills.
+&nbsp;You can check my [Resume](https://srealmoreno.com/Salvador%20Real%20-%20CV.pdf) for more details about work experience and skills.
 
 ## 🛠 &nbsp;Languages and Tools
 
@@ -32,4 +32,4 @@ Able to solve problems, proactive researcher, critical thinking, decision making
 ## 📫 &nbsp; How to reach me
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/srealmoreno/)
-[![Gmail Bagde](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:salvadorreal77@gmail.com)
+[![Email Bagde](https://img.shields.io/badge/Email-D14836?style=flat&logo=mail.ru&logoColor=white)](mailto:salvadorreal77@gmail.com)
