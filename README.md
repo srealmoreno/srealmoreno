@@ -32,4 +32,4 @@ Able to solve problems, proactive researcher, critical thinking, decision making
 ## 📫 &nbsp; How to reach me
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/srealmoreno/)
-[![Email Bagde](https://img.shields.io/badge/Email-D14836?style=flat&logo=mail.ru&logoColor=white)](mailto:salvadorreal77@gmail.com)
+[![Email Bagde](https://img.shields.io/badge/Email-D14836?style=flat&logo=mail.ru&logoColor=white)](mailto:info@srealmoreno.com)
